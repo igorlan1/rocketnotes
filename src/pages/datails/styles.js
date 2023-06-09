@@ -13,7 +13,7 @@ grid-template-areas:
 "header"
 "content";
 
-`
+`;
 
 export const Links = styled.ul`
 list-style: none;
